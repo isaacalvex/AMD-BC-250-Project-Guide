@@ -26,7 +26,7 @@ Para informações detalhadas sobre hardware e software:
 | :---: | :--- | :---: | :--- |
 | <img src="LINK_DA_FOTO" width="50"> | Parafusos M3x6 | 20 | [AliExpress](https://pt.aliexpress.com/item/1005007345768217.html) |
 | <img src="LINK_DA_FOTO" width="50"> | Insertos M3x6 | 15 | [AliExpress](https://pt.aliexpress.com/item/1005008301352294.html) |
-| <img src="LINK_DA_FOTO" width="50"> | Hub USB 3.0 (4 portas) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2uJBcMX) |
+| <img src="LINK_DA_FOTO" width="50"> | Hub USB (4 portas) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861?pdp_filters=item_id:MLB3401016689#is_advertising=true&searchVariation=MLB25726861&backend_model=search-backend&be_origin=backend&position=3&search_layout=grid&type=pad&tracking_id=0978787e-5a76-41f5-bdc2-c6479bb1e9bf&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=MjFiZmQ2ZGUtYWFjNS00MjFkLTkxNjAtMmIzMWZhN2M0YzIx) |
 | <img src="LINK_DA_FOTO" width="50"> | Extensão RJ-45 (Painel) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
 | <img src="LINK_DA_FOTO" width="50"> | Hub PWM para fans | 1 | [Mercado Livre](https://mercadolivre.com/sec/1Yk9tYN) |
 | <img src="LINK_DA_FOTO" width="50"> | NodeMCU ESP32 | 1 | [Mercado Livre](https://www.mercadolivre.com.br/lote-de-baixa-energia-bluetooth-nodemcu-esp32-vroom-wifi/p/MLB46869037) |
