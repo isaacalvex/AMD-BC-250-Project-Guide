@@ -36,7 +36,7 @@ Para informações detalhadas sobre hardware e software:
 | <img src="LINK_DA_FOTO" width="50"> | Fans 120 mm — 4 pinos | 2 | [Mercado Livre](https://mercadolivre.com/sec/2zHXMnQ) |
 | <img src="LINK_DA_FOTO" width="50"> | Botao com trava (Azul) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
 | <img src="LINK_DA_FOTO" width="50"> | Botao sem trava (Amarelo) | 1 | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
-| <img src="LINK_DA_FOTO" width="50"> | Adaptador DP para HDMI | 1 | [GitHub Repo](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility) |
+| <img src="LINK_DA_FOTO" width="50"> | Adaptador DP para HDMI | 1 | [Shoppe](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-(4K-60Hz)-compat%C3%ADvel-HP-ThinkPad-AMD-NVIDIA-Desktop-B07JFTK8YV-i.1590082224.58250184593) |
 | <img src="LINK_DA_FOTO" width="50"> | Tomada de Forca C14 | 1 | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
 | <img src="LINK_DA_FOTO" width="50"> | Cabo PCI-E 8 pinos | 1 | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
 | <img src="LINK_DA_FOTO" width="50"> | Resistor 580 ohms | 1 | [Mercado Livre](https://mercadolivre.com/sec/2ZoQ9BT) |
