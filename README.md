@@ -41,12 +41,6 @@ Para informações detalhadas sobre hardware e software:
 
 ---
 
-## Galeria do Projeto
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/054dce06-1e0c-4125-b9cd-1b2700f88108" width="100%" alt="Visual do Projeto BC-250">
-</p>
-
 ---
 
 ## Proximos Passos
