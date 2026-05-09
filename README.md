@@ -35,7 +35,7 @@ Para informações detalhadas sobre hardware e software:
 | <img src="https://http2.mlstatic.com/D_NQ_NP_868351-MLB44249156095_122020-O.webp" width="50"> | Botao com trava (Azul) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
 | <img src="https://http2.mlstatic.com/D_NQ_NP_806506-MLB44249098754_122020-O.webp" width="50"> | Botao sem trava (Amarelo) | 1 | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
 | <img src="https://cf.shopee.com.br/file/4094e9f76c5b967a57a1b94b7e80a041" width="50"> | Adaptador DP para HDMI | 1 | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-\(4K-60Hz\)-compat%C3%ADvel-HP-ThinkPad-AMD-NVIDIA-Desktop-B07JFTK8YV-i.1590082224.58250184593) |
-| <img src="https://http2.mlstatic.com/D_NQ_NP_753176-MLBU74104273010_012024-O.webp" width="50"> | Fita Metalizada Termoisolante | 1 | [Mercado Livre](https://www.mercadolivre.com.br/fita-ultra-fitas-metalizada-50m-x-48mm-termoisolante/p/MLB36521923) |
+| <img width="169" height="143" alt="fita" src="https://github.com/user-attachments/assets/18b22687-02f9-4d31-adac-f4fb338e0e38" />| Fita Metalizada Termoisolante | 1 | [Mercado Livre](https://www.mercadolivre.com.br/fita-ultra-fitas-metalizada-50m-x-48mm-termoisolante/p/MLB36521923) |
 | <img src="https://http2.mlstatic.com/D_NQ_NP_727914-MLB29202868285_012019-O.webp" width="50"> | Tomada de Forca C14 | 1 | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
 | <img src="https://http2.mlstatic.com/D_NQ_NP_824522-MLB48011283307_102021-O.webp" width="50"> | Cabo PCI-E 8 pinos | 1 | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
 
