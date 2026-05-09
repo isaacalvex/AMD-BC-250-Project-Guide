@@ -16,29 +16,38 @@ Para informações detalhadas sobre hardware e software:
 
 *   **Pinagem e Hardware**: [Documentação BC-250 (mothenjoyer69)](https://github.com/mothenjoyer69/bc250-documentation).
 *   **Ajustes de BIOS**: [BIOS Mod para Linux (dannybastos)](https://github.com/dannybastos/bc-250-archlinux).
-*   **Compatibilidade de Video**: [Lista de cabos compatíveis](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility).
+*   **Compatibilidade de Video**: [Banco de Dados de Cabos Testados](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility).
 
 ---
 
 ## Itens obrigatorios para a montagem
 
-| Categoria | Item | Quantidade | Link de Compra |
-| :--- | :--- | :--- | :--- |
-| Fixacao | Parafusos M3x6 | 20 unidades | [AliExpress](https://pt.aliexpress.com/item/1005007345768217.html) |
-| Fixacao | Insertos M3x6 | 15 unidades | [AliExpress](https://pt.aliexpress.com/item/1005008301352294.html) |
-| Conectividade | Hub USB 3.0 (4 portas) | 1 unidade | [Mercado Livre](https://mercadolivre.com/sec/2uJBcMX) |
-| Conectividade | Extensão RJ-45 Macho/Fêmea (Painel) | 1 unidade | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
-| Controle | Hub PWM para fans (ate 5) | 1 unidade | [Mercado Livre](https://mercadolivre.com/sec/1Yk9tYN) |
-| Eletronica | NodeMCU ESP32 WiFi/Bluetooth | 1 unidade | [Mercado Livre](https://www.mercadolivre.com.br/lote-de-baixa-energia-bluetooth-nodemcu-esp32-vroom-wifi/p/MLB46869037) |
-| Eletronica | Display IPS 1.28 GC9A01 Redondo | 1 unidade | [Mercado Livre](https://www.mercadolivre.com.br/display-ips-128-gc9a01-redondo/p/MLB2066163968) |
-| Cabeamento | Conector JST SM 4 Pinos (5 pares) | 1 unidade | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711) |
-| Ventilacao | Fans 120 mm — 4 pinos | 2 unidades | [Mercado Livre](https://mercadolivre.com/sec/2zHXMnQ) |
-| Botoes | Botao com trava (Azul) | 1 unidade | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
-| Botoes | Botao sem trava (Amarelo) | 1 unidade | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
-| Video | Adaptador DP para HDMI Benfei | 1 unidade | [GitHub Repo](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility) |
-| Eletrica | Tomada de Forca Tripolar C14 | 1 unidade | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
-| Eletrica | Cabo PCI-E 8 pinos (fonte) | 1 unidade | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
-| Eletrica | Resistor 580 ohms (para fonte) | 1 unidade | [Mercado Livre](https://mercadolivre.com/sec/2ZoQ9BT) |
+| Foto | Item | Qtd | Link de Compra |
+| :---: | :--- | :---: | :--- |
+| <img src="LINK_DA_FOTO" width="50"> | Parafusos M3x6 | 20 | [AliExpress](https://pt.aliexpress.com/item/1005007345768217.html) |
+| <img src="LINK_DA_FOTO" width="50"> | Insertos M3x6 | 15 | [AliExpress](https://pt.aliexpress.com/item/1005008301352294.html) |
+| <img src="LINK_DA_FOTO" width="50"> | Hub USB 3.0 (4 portas) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2uJBcMX) |
+| <img src="LINK_DA_FOTO" width="50"> | Extensão RJ-45 (Painel) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
+| <img src="LINK_DA_FOTO" width="50"> | Hub PWM para fans | 1 | [Mercado Livre](https://mercadolivre.com/sec/1Yk9tYN) |
+| <img src="LINK_DA_FOTO" width="50"> | NodeMCU ESP32 | 1 | [Mercado Livre](https://www.mercadolivre.com.br/lote-de-baixa-energia-bluetooth-nodemcu-esp32-vroom-wifi/p/MLB46869037) |
+| <img src="LINK_DA_FOTO" width="50"> | Display IPS 1.28 GC9A01 | 1 | [Mercado Livre](https://www.mercadolivre.com.br/display-ips-128-gc9a01-redondo/p/MLB2066163968) |
+| <img src="LINK_DA_FOTO" width="50"> | Conector JST SM 4 Pinos | 1 | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711) |
+| <img src="LINK_DA_FOTO" width="50"> | Extensor PCI-E 6 Pinos | 1 | [AliExpress](https://pt.aliexpress.com/item/1005008976362329.html) |
+| <img src="LINK_DA_FOTO" width="50"> | Fans 120 mm — 4 pinos | 2 | [Mercado Livre](https://mercadolivre.com/sec/2zHXMnQ) |
+| <img src="LINK_DA_FOTO" width="50"> | Botao com trava (Azul) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
+| <img src="LINK_DA_FOTO" width="50"> | Botao sem trava (Amarelo) | 1 | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
+| <img src="LINK_DA_FOTO" width="50"> | Adaptador DP para HDMI | 1 | [GitHub Repo](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility) |
+| <img src="LINK_DA_FOTO" width="50"> | Tomada de Forca C14 | 1 | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
+| <img src="LINK_DA_FOTO" width="50"> | Cabo PCI-E 8 pinos | 1 | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
+| <img src="LINK_DA_FOTO" width="50"> | Resistor 580 ohms | 1 | [Mercado Livre](https://mercadolivre.com/sec/2ZoQ9BT) |
+
+---
+
+## Galeria do Projeto
+
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" alt="Visual do Projeto BC-250">
+</p>
 
 ---
 
