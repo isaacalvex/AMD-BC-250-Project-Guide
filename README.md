@@ -1,4 +1,4 @@
-# AMD BC-250 Project Guide
+# AMD BC-250 - Console Project Guide
 
 ![AMD BC-250 Custom Steam Machine](https://github.com/user-attachments/assets/054dce06-1e0c-4125-b9cd-1b2700f88108)
 
