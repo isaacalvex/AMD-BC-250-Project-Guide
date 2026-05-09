@@ -33,13 +33,12 @@ Para informações detalhadas sobre hardware e software:
 | <img src="LINK_DA_FOTO" width="50"> | Display IPS 1.28 GC9A01 | 1 | [Mercado Livre](https://www.mercadolivre.com.br/display-ips-128-gc9a01-redondo/p/MLB2066163968) |
 | <img src="LINK_DA_FOTO" width="50"> | Conector JST SM 4 Pinos | 1 | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711) |
 | <img src="LINK_DA_FOTO" width="50"> | Extensor PCI-E 6 Pinos | 1 | [AliExpress](https://pt.aliexpress.com/item/1005008976362329.html) |
-| <img src="LINK_DA_FOTO" width="50"> | Fans 120 mm — 4 pinos | 2 | [Mercado Livre](https://mercadolivre.com/sec/2zHXMnQ) |
+| <img src="LINK_DA_FOTO" width="50"> | Fans Arctir P12 Pro | 2 | [WAZ]([https://mercadolivre.com/sec/2zHXMnQ](https://www.waz.com.br/ventoinha-cooler-12cm-arctic-cooling-p12-pro-preto-acfan00305a-131823-html/p?srsltid=AfmBOorbhQXspOLTejeLBpwRRMz8DuzGhlcdd-pr7w14oS4t2m7f4o9E)) |
 | <img src="LINK_DA_FOTO" width="50"> | Botao com trava (Azul) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
 | <img src="LINK_DA_FOTO" width="50"> | Botao sem trava (Amarelo) | 1 | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
 | <img src="LINK_DA_FOTO" width="50"> | Adaptador DP para HDMI | 1 | [Shoppe](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-(4K-60Hz)-compat%C3%ADvel-HP-ThinkPad-AMD-NVIDIA-Desktop-B07JFTK8YV-i.1590082224.58250184593) |
 | <img src="LINK_DA_FOTO" width="50"> | Tomada de Forca C14 | 1 | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
 | <img src="LINK_DA_FOTO" width="50"> | Cabo PCI-E 8 pinos | 1 | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
-| <img src="LINK_DA_FOTO" width="50"> | Resistor 580 ohms | 1 | [Mercado Livre](https://mercadolivre.com/sec/2ZoQ9BT) |
 
 ---
 
