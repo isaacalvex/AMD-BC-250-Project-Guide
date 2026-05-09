@@ -16,7 +16,7 @@ Para informações detalhadas sobre hardware e software:
 
 *   **Pinagem e Hardware**: [Documentação BC-250 (mothenjoyer69)](https://github.com/mothenjoyer69/bc250-documentation).
 *   **Ajustes de BIOS**: [BIOS Mod para Linux (dannybastos)](https://github.com/dannybastos/bc-250-archlinux).
-*   **Compatibilidade de Video**: [Banco de Dados de Cabos Testados](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility).
+*   **Compatibilidade de Video**: [Lista de cabos compatíveis](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility).
 
 ---
 
