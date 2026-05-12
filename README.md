@@ -1,6 +1,6 @@
-# 🎮 AMD BC-250 - Console Project Guide
+#  AMD BC-250 - Console Project Guide
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 O **BC-250** utiliza um hardware derivado da unidade de processamento (APU) do PlayStation 5, adaptado para o ambiente de desktop. Este projeto transforma essa placa em uma **Steam Machine** personalizada, utilizando o **Bazzite OS** para oferecer uma interface de console otimizada para jogos e emulação.
 
 ### Especificações Base
@@ -10,7 +10,7 @@ O **BC-250** utiliza um hardware derivado da unidade de processamento (APU) do P
 
 ---
 
-## 📚 Documentação Técnica e Modificações
+##  Documentação Técnica e Modificações
 Para informações detalhadas sobre hardware, pinagem e software, consulte os repositórios da comunidade:
 
 *   **[Pinagem e Hardware](https://github.com/mothenjoyer69/bc250-documentation)** – Documentação oficial por *mothenjoyer69*.
@@ -19,7 +19,7 @@ Para informações detalhadas sobre hardware, pinagem e software, consulte os re
 
 ---
 
-## 🛠️ Itens Obrigatórios para a Montagem
+##  Itens Obrigatórios para a Montagem
 
 | Prévia | Item | Qtd | Link de Compra |
 | :---: | :--- | :---: | :--- |
@@ -40,7 +40,7 @@ Para informações detalhadas sobre hardware, pinagem e software, consulte os re
 
 ---
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 
 1.  **Modelagem 3D:** Baixe e imprima as peças no repositório **CubeLAB**.
 2.  **Software:** Realize a instalação do **Bazzite OS** para garantir compatibilidade nativa com os sensores e a GPU RDNA 2.
