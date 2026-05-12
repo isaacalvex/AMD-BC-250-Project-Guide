@@ -23,7 +23,7 @@ Para informações detalhadas sobre hardware, pinagem e software, consulte os re
 | Previa | Item | Qtd | Link de Compra |
 | :---: | :--- | :---: | :--- |
 | <img src="https://github.com/user-attachments/assets/0bcfc120-fb4b-447e-b11e-1ddc9428bbba" width="60"> | Parafusos M3x6 | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005005467831636.html) |
-| <img width="100" height="100" alt="D_Q_NP_833241-MLA99841725977_112025-F" src="https://github.com/user-attachments/assets/a6fd68c5-4355-4bf2-a7e8-1bff6de87501" /> | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
+| <img width="100" height="60" alt="D_Q_NP_833241-MLA99841725977_112025-F" src="https://github.com/user-attachments/assets/a6fd68c5-4355-4bf2-a7e8-1bff6de87501" /> | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
 | <img src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" width="60"> | Extensao RJ-45 (Painel) | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
 | <img src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" width="60"> | Splitter PWM para fans | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727) |
 | <img src="https://http2.mlstatic.com/D_NQ_NP_675344-MLB44140024925_112020-O.webp" width="60"> | NodeMCU ESP32 | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/lote-de-baixa-energia-bluetooth-nodemcu-esp32-vroom-wifi/p/MLB46869037) |
