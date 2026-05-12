@@ -22,8 +22,8 @@ Para informações detalhadas sobre hardware e software:
 
 | Foto | Item | Qtd | Link de Compra |
 | :---: | :--- | :---: | :--- |
-| <img src="https://m.media-amazon.com/images/I/51f98I9-pBL._AC_SL1000_.jpg" width="50"> | Parafusos M3x6 | 20 | [AliExpress](https://pt.aliexpress.com/item/1005007345768217.html) |
-| <img src="https://m.media-amazon.com/images/I/5176A6y-P0L._AC_SL1000_.jpg" width="50"> | Insertos M3x6 | 15 | [AliExpress](https://pt.aliexpress.com/item/1005008301352294.html) |
+| <img width="279" height="257" alt="parafusos" src="https://github.com/user-attachments/assets/0bcfc120-fb4b-447e-b11e-1ddc9428bbba" /> | Parafusos M3x6 | 1 | [AliExpress](https://pt.aliexpress.com/item/1005005467831636.html?spm=a2g0o.productlist.main.14.5f49389bX1wba1&algo_pvid=dbb626a3-02d4-4c4a-b3fc-8e2ba7131a57&algo_exp_id=dbb626a3-02d4-4c4a-b3fc-8e2ba7131a57-13&pdp_ext_f=%7B%22order%22%3A%221618%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2141.07%2138.71%21%21%2152.62%2149.60%21%402103126e17785892151121080e3d7a%2112000033200125765%21sea%21BR%211742837610%21X%211%210%21n_tag%3A-29919%3Bd%3A37956308%3Bm03_new_user%3A-29895&curPageLogUid=SsQ8DdDy9l8H&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx) |
+
 | <img src="https://http2.mlstatic.com/D_NQ_NP_956743-MLA50346399432_062022-O.webp" width="50"> | Hub USB (4 portas) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
 | <img width="100" height="100" alt="rj45" src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" /> | Extensão RJ-45 (Painel) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
 | <img width="100" height="100" alt="splitter" src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" /> | Splitter PWM para fans | 1 | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727) |
