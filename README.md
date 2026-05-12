@@ -35,7 +35,7 @@ Para informações detalhadas sobre hardware, pinagem e software, consulte os re
 | <img src="https://http2.mlstatic.com/D_NQ_NP_806506-MLB44249098754_122020-O.webp" width="60"> | **Botão sem trava (Amarelo)** | 1 un. | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
 | <img alt="br-11134207-81z1k-mggv7m1gtrev70@resize_w450_nl (1)" src="https://github.com/user-attachments/assets/b916ef9e-04dd-43ba-89dc-bade941c0bde" width="60"/> | **Adaptador DP para HDMI** | 1 un. | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-(4K-60Hz)) |
 | <img src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" width="60"> | **Tomada de Força C14** | 1 un. | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
-| <img width="941" height="1200" alt="D_Q_NP_853295-MLB87399952660_072025-F" src="https://github.com/user-attachments/assets/6cc331b8-44c0-42c2-afbd-06fcfc01175e" width="60"> | **Cabo PCI-E 8 pinos** | 1 un. | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
+| <img alt="D_Q_NP_853295-MLB87399952660_072025-F" src="https://github.com/user-attachments/assets/6cc331b8-44c0-42c2-afbd-06fcfc01175e" width="60"> | **Cabo PCI-E 8 pinos** | 1 un. | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
 
 ---
 
