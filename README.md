@@ -1,50 +1,47 @@
 # AMD BC-250 - Console Project Guide
 
 ## Sobre o Projeto
+O BC-250 utiliza um hardware derivado da unidade de processamento (APU) do PlayStation 5, adaptado para o ambiente de desktop. Este projeto transforma essa placa em uma Steam Machine personalizada, utilizando o Bazzite OS para oferecer uma interface de console otimizada para jogos e emulação.
 
-O **BC-250** utiliza um hardware derivado da unidade de processamento (APU) do PlayStation 5, adaptado para o ambiente de desktop. Este projeto transforma essa placa em uma **Steam Machine** personalizada, utilizando o **Bazzite OS** para oferecer uma interface de console otimizada para jogos e emulação.
-
-A placa conta com arquitetura **Zen 2** (8 núcleos e 16 threads) e gráficos integrados **RDNA 2**.
+* Arquitetura: Zen 2 (8 núcleos / 16 threads).
+* Gráficos: RDNA 2 Integrado.
+* Sistema Operacional Sugerido: Bazzite OS (Linux).
 
 ---
 
 ## Documentacao Tecnica e Modificacoes
+Para informações detalhadas sobre hardware, pinagem e software, consulte os repositórios abaixo:
 
-Para informações detalhadas sobre hardware e software:
-
-* **Pinagem e Hardware**: [Documentação BC-250 (mothenjoyer69)](https://github.com/mothenjoyer69/bc250-documentation).
-* **Ajustes de BIOS**: [BIOS Mod para Linux (dannybastos)](https://github.com/dannybastos/bc-250-archlinux).
-* **Compatibilidade de Video**: [Banco de Dados de Cabos Testados](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility).
+* [Pinagem e Hardware](https://github.com/mothenjoyer69/bc250-documentation) – Documentação oficial por mothenjoyer69.
+* [Ajustes de BIOS](https://github.com/dannybastos/bc-250-archlinux) – BIOS Mod para Linux por dannybastos.
+* [Compatibilidade de Video](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility) – Banco de dados de cabos e adaptadores testados.
 
 ---
 
-## Itens obrigatorios para a montagem
+## Itens Obrigatorios para a Montagem
 
-| Foto | Item | Qtd | Link de Compra |
+| Previa | Item | Qtd | Link de Compra |
 | :---: | :--- | :---: | :--- |
-| <img width="279" height="257" alt="parafusos" src="https://github.com/user-attachments/assets/0bcfc120-fb4b-447e-b11e-1ddc9428bbba" /> | Parafusos M3x6 | 1 | [AliExpress](https://pt.aliexpress.com/item/1005005467831636.html?spm=a2g0o.productlist.main.14.5f49389bX1wba1&algo_pvid=dbb626a3-02d4-4c4a-b3fc-8e2ba7131a57&algo_exp_id=dbb626a3-02d4-4c4a-b3fc-8e2ba7131a57-13&pdp_ext_f=%7B%22order%22%3A%221618%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2141.07%2138.71%21%21%2152.62%2149.60%21%402103126e17785892151121080e3d7a%2112000033200125765%21sea%21BR%211742837610%21X%211%210%21n_tag%3A-29919%3Bd%3A37956308%3Bm03_new_user%3A-29895&curPageLogUid=SsQ8DdDy9l8H&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx) |
-
-| <img src="https://http2.mlstatic.com/D_NQ_NP_956743-MLA50346399432_062022-O.webp" width="50"> | Hub USB (4 portas) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
-| <img width="100" height="100" alt="rj45" src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" /> | Extensão RJ-45 (Painel) | 1 | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
-| <img width="100" height="100" alt="splitter" src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" /> | Splitter PWM para fans | 1 | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727) |
-| <img src="https://http2.mlstatic.com/D_NQ_NP_675344-MLB44140024925_112020-O.webp" width="50"> | NodeMCU ESP32 | 1 | [Mercado Livre](https://www.mercadolivre.com.br/lote-de-baixa-energia-bluetooth-nodemcu-esp32-vroom-wifi/p/MLB46869037) |
-|<img width="100" height="100" alt="gc9a01-128-zoll-rundes-lcd-tft-display-fur-arduino-602642" src="https://github.com/user-attachments/assets/649c0974-3cb6-449f-b9a6-2dc50f5ad4fb" /> | Display IPS 1.28 GC9A01 | 1 | [Mercado Livre](https://www.mercadolivre.com.br/display-ips-128-gc9a01-redondo/p/MLB2066163968) |
-| <img width="100" height="100" alt="jst" src="https://github.com/user-attachments/assets/c40e5315-4f34-4147-92ad-4567b3fc52fd" />| Conector JST SM 4 Pinos | 1 | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711) |
-| <img src="https://ae01.alicdn.com/kf/S5584852c00214878a2e7240f2e008608p.jpg" width="50"> | Extensor PCI-E 6 Pinos | 1 | [AliExpress](https://pt.aliexpress.com/item/1005008976362329.html) |
-| <img width="100" height="100" alt="arctic" src="https://github.com/user-attachments/assets/71c7976a-94d8-4e65-bcad-7493228c3612" /> | Fans Arctic P12 Pro | 2 | [WAZ](https://www.waz.com.br/ventoinha-cooler-12cm-arctic-cooling-p12-pro-preto-acfan00305a-131823-html/p) |
-| <img width="100" height="100" alt="botão com trava" src="https://github.com/user-attachments/assets/387d97d1-b84a-49b6-aeb2-f927af8289b7" /> | Botao com trava (Azul) | 1 | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
-| <img src="https://http2.mlstatic.com/D_NQ_NP_806506-MLB44249098754_122020-O.webp" width="50"> | Botao sem trava (Amarelo) | 1 | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
-| <img src="https://cf.shopee.com.br/file/4094e9f76c5b967a57a1b94b7e80a041" width="50"> | Adaptador DP para HDMI | 1 | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-\(4K-60Hz\)-compat%C3%ADvel-HP-ThinkPad-AMD-NVIDIA-Desktop-B07JFTK8YV-i.1590082224.58250184593) |
-| <img width="100" height="100" alt="fita" src="https://github.com/user-attachments/assets/18b22687-02f9-4d31-adac-f4fb338e0e38" />| Fita Metalizada Termoisolante | 1 | [Mercado Livre](https://www.mercadolivre.com.br/fita-ultra-fitas-metalizada-50m-x-48mm-termoisolante/p/MLB36521923) |
-| <img width="100" height="100" alt="tomada" src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" /> | Tomada de Forca C14 | 1 | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
-| <img src="https://http2.mlstatic.com/D_NQ_NP_824522-MLB48011283307_102021-O.webp" width="50"> | Cabo PCI-E 8 pinos | 1 | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
-
----
+| <img src="https://github.com/user-attachments/assets/0bcfc120-fb4b-447e-b11e-1ddc9428bbba" width="60"> | Parafusos M3x6 | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005005467831636.html) |
+| <img src="https://http2.mlstatic.com/D_NQ_NP_956743-MLA50346399432_062022-O.webp" width="60"> | Hub USB (4 portas) | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
+| <img src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" width="60"> | Extensao RJ-45 (Painel) | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
+| <img src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" width="60"> | Splitter PWM para fans | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727) |
+| <img src="https://http2.mlstatic.com/D_NQ_NP_675344-MLB44140024925_112020-O.webp" width="60"> | NodeMCU ESP32 | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/lote-de-baixa-energia-bluetooth-nodemcu-esp32-vroom-wifi/p/MLB46869037) |
+| <img src="https://github.com/user-attachments/assets/649c0974-3cb6-449f-b9a6-2dc50f5ad4fb" width="60"> | Display IPS 1.28 GC9A01 | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/display-ips-128-gc9a01-redondo/p/MLB2066163968) |
+| <img src="https://github.com/user-attachments/assets/c40e5315-4f34-4147-92ad-4567b3fc52fd" width="60"> | Conector JST SM 4 Pinos | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711) |
+| <img src="https://ae01.alicdn.com/kf/S5584852c00214878a2e7240f2e008608p.jpg" width="60"> | Extensor PCI-E 6 Pinos | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005008976362329.html) |
+| <img src="https://github.com/user-attachments/assets/71c7976a-94d8-4e65-bcad-7493228c3612" width="60"> | Fans Arctic P12 Pro | 2 un. | [WAZ](https://www.waz.com.br/ventoinha-cooler-12cm-arctic-cooling-p12-pro-preto-acfan00305a-131823-html/p) |
+| <img src="https://github.com/user-attachments/assets/387d97d1-b84a-49b6-aeb2-f927af8289b7" width="60"> | Botao com trava (Azul) | 1 un. | [Mercado Livre](https://mercadolivre.com/sec/2JBbnZW) |
+| <img src="https://http2.mlstatic.com/D_NQ_NP_806506-MLB44249098754_122020-O.webp" width="60"> | Botao sem trava (Amarelo) | 1 un. | [Mercado Livre](https://mercadolivre.com/sec/223wKj9) |
+| <img src="https://cf.shopee.com.br/file/4094e9f76c5b967a57a1b94b7e80a041" width="60"> | Adaptador DP para HDMI | 1 un. | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-(4K-60Hz)) |
+| <img src="https://github.com/user-attachments/assets/18b22687-02f9-4d31-adac-f4fb338e0e38" width="60"> | Fita Metalizada Termica | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/fita-ultra-fitas-metalizada-50m-x-48mm-termoisolante/p/MLB36521923) |
+| <img src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" width="60"> | Tomada de Forca C14 | 1 un. | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
+| <img src="https://http2.mlstatic.com/D_NQ_NP_824522-MLB48011283307_102021-O.webp" width="60"> | Cabo PCI-E 8 pinos | 1 un. | [Mercado Livre](https://mercadolivre.com/sec/2PYv3qZ) |
 
 ---
 
 ## Proximos Passos
 
-1. Consulte os arquivos de modelagem 3D no repositório **CubeLAB**.
-2. Realize a instalação do **Bazzite OS** para garantir a compatibilidade com sensores e GPU.
-3. Utilize o banco de dados de cabos para garantir a saída de vídeo correta em sua TV ou monitor.
+1. Modelagem 3D: Baixe e imprima as peças no repositório CubeLAB.
+2. Software: Realize a instalação do Bazzite OS para garantir compatibilidade nativa com os sensores e a GPU RDNA 2.
+3. Conectividade: Utilize o banco de dados de cabos para garantir que a saída de vídeo funcione corretamente na sua TV ou monitor.
