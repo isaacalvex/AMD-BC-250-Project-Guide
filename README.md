@@ -1,4 +1,7 @@
-#  AMD BC250 - A gaming console project guide
+<div align="center">
+  <h1>Stellar 250</h1>
+  <p>A gaming console project with AMD BC250</p>
+</div>
 
 <img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/9f82f6da-a7e4-4713-b337-d85bcc44ed8c" />
 
