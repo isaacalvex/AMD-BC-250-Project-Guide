@@ -11,12 +11,11 @@
   <table>
     <tr>
       <td><img width="4000" height="2252" alt="20260512_003014 (1)" src="https://github.com/user-attachments/assets/e9c0f501-4711-41ac-9e7a-d1df602cda64"/>
-<br><sub>Traseira</sub></td>
-              <td><<img width="4000" height="3000" alt="20260511_233720 (1)" src="https://github.com/user-attachments/assets/f6698b57-caf4-47b5-bcbd-40e7f573a90b" />
-/>
-<br><sub>Display</sub></td>
-                      <td><img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
-<br><sub>Frente</sub></td>
+<br></td>
+              <td><img width="4000" height="3000" alt="20260511_233720 (1)" src="https://github.com/user-attachments/assets/f6698b57-caf4-47b5-bcbd-40e7f573a90b" />
+<br></td>
+                      <td><img width="4000" height="3000" alt="20260511_232621" src="https://github.com/user-attachments/assets/28dbbe0a-f607-46fb-a8db-323262ab98ae" />
+<br></td>
   </table>
 </div>
 
