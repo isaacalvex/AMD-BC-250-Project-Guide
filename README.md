@@ -11,11 +11,11 @@
   <table>
     <tr>
       <td><img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
-><br><sub>Frente</sub></td>
+<br><sub>Frente</sub></td>
               <td><img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
-><br><sub>Frente</sub></td>
+<br><sub>Frente</sub></td>
                       <td><img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
-><br><sub>Frente</sub></td>
+<br><sub>Frente</sub></td>
   </table>
 </div>
 
