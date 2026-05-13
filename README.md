@@ -62,4 +62,6 @@ Para informações detalhadas sobre hardware, pinagem e software, consulte os re
 
 <img width="1491" height="866" alt="6MM ROUND NEODYMIUM MAGNET" src="https://github.com/user-attachments/assets/c41fb9f5-f7d5-447d-8855-ed5c91c141b6" />
 
+<img width="1487" height="834" alt="6MM ROUND NEODYMIUM MAGNET (1)" src="https://github.com/user-attachments/assets/51c9c803-ef9b-40fa-bf7d-9ff9edc17179" />
 
+<img width="1490" height="856" alt="6MM ROUND NEODYMIUM MAGNET (2)" src="https://github.com/user-attachments/assets/6107e3c9-58ee-4095-a563-c50d1da86e1c" />
