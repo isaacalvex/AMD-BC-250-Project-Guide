@@ -3,6 +3,15 @@
   <img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" />
   <p>A gaming console project with AMD BC250</p>
 </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" ><br><sub>Frente</sub></td>
+      <td><img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" ><br><sub>Frente</sub></td>      
+      <td><img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" ><br><sub>Frente</sub></td>    </tr>
+  </table>
+</div>
+
 
 <img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/9f82f6da-a7e4-4713-b337-d85bcc44ed8c" />
 
