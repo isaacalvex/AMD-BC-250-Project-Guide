@@ -1,4 +1,4 @@
-#  AMD BC-250 - Console Project Guide
+#  AMD BC250 - A gaming console project guide
 
 <img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/9f82f6da-a7e4-4713-b337-d85bcc44ed8c" />
 
