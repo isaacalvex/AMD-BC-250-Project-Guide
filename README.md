@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Stellar 250</h1>
+  <h1>𝖲𝗍𝖾𝗅𝗅𝖺𝗋 𝟤𝟧𝟢</h1>
   <img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" />
   <p>A gaming console project with AMD BC250</p>
 </div>
