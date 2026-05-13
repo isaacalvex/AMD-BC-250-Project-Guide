@@ -58,8 +58,8 @@ Para informações detalhadas sobre hardware, pinagem e software, consulte os re
 
 ---
 
-##  Próximos Passos
+##  Estrutura
 
-1.  **Modelagem 3D:** Baixe e imprima as peças no repositório **CubeLAB**.
-2.  **Software:** Realize a instalação do **Bazzite OS** para garantir compatibilidade nativa com os sensores e a GPU RDNA 2.
-3.  **Conectividade:** Utilize o banco de dados de cabos para garantir que a saída de vídeo funcione corretamente na sua TV ou monitor.
+<img width="1491" height="866" alt="6MM ROUND NEODYMIUM MAGNET" src="https://github.com/user-attachments/assets/c41fb9f5-f7d5-447d-8855-ed5c91c141b6" />
+
+
