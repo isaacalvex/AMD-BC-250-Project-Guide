@@ -10,9 +10,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" ><br><sub>Frente</sub></td>
-      <td><img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" ><br><sub>Frente</sub></td>      
-      <td><img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" ><br><sub>Frente</sub></td>    </tr>
+      <td><<img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
+><br><sub>Frente</sub></td>
+              <td><<img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
+><br><sub>Frente</sub></td>
+                      <td><<img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/a178f4f0-1e7f-428e-92bd-c5b504b1b7aa" />
+><br><sub>Frente</sub></td>
   </table>
 </div>
 
