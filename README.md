@@ -1,69 +1,143 @@
+# 𝖲𝗍𝖾𝗅𝗅𝖺𝗋 𝟤𝟧𝟢
+
 <div align="center">
+
   <h1>𝖲𝗍𝖾𝗅𝗅𝖺𝗋 𝟤𝟧𝟢</h1>
-  <img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" />
-  <p>A gaming console project with AMD BC250</p>
+
+  <img width="3000" height="100" alt="Stellar 250" src="https://github.com/user-attachments/assets/75a249e6-c0e7-4c7b-a180-b378e0baf345" />
+
+  <p><strong>A gaming console project with AMD BC250</strong></p>
+
 </div>
 
-
-<img width="8160" height="4592" alt="20260512_094420" src="https://github.com/user-attachments/assets/9f82f6da-a7e4-4713-b337-d85bcc44ed8c" />
+<br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img width="4000" height="2252" alt="20260512_003014 (1)" src="https://github.com/user-attachments/assets/e9c0f501-4711-41ac-9e7a-d1df602cda64"/>
-<br></td>
-              <td><img width="4000" height="3000" alt="20260511_233720 (1)" src="https://github.com/user-attachments/assets/f6698b57-caf4-47b5-bcbd-40e7f573a90b" />
-<br></td>
-                      <td><img width="4000" height="3000" alt="20260511_232621" src="https://github.com/user-attachments/assets/28dbbe0a-f607-46fb-a8db-323262ab98ae" />
-<br></td>
-  </table>
+
+  <img width="8160" height="4592" alt="Stellar 250" src="https://github.com/user-attachments/assets/9f82f6da-a7e4-4713-b337-d85bcc44ed8c" />
+
 </div>
 
+<br>
 
-##  Sobre o projeto
-O **BC-250** utiliza um hardware derivado da unidade de processamento (APU) do PlayStation 5, adaptado para o ambiente de desktop. Este projeto transforma essa placa em uma **Steam Machine** personalizada, utilizando o **Bazzite OS** para oferecer uma interface de console otimizada para jogos e emulação.
+<div align="center">
 
-### Especificações Base
-*   **Arquitetura:** Zen 2 (8 núcleos / 16 threads).
-*   **Gráficos:** RDNA 2 Integrado.
-*   **Sistema Operacional:** [Bazzite OS (Linux)](https://bazzite.gg/).
+<table>
+  <tr>
+    <td>
+      <img width="4000" height="2252" alt="20260512_003014" src="https://github.com/user-attachments/assets/e9c0f501-4711-41ac-9e7a-d1df602cda64" />
+    </td>
+    <td>
+      <img width="4000" height="3000" alt="20260511_233720" src="https://github.com/user-attachments/assets/f6698b57-caf4-47b5-bcbd-40e7f573a90b" />
+    </td>
+    <td>
+      <img width="4000" height="3000" alt="20260511_232621" src="https://github.com/user-attachments/assets/28dbbe0a-f607-46fb-a8db-323262ab98ae" />
+    </td>
+  </tr>
+</table>
 
----
-
-##  Documentação Técnica e Modificações
-Para informações detalhadas sobre hardware, pinagem e software, consulte os repositórios da comunidade:
-
-*   **[Pinagem e Hardware](https://github.com/mothenjoyer69/bc250-documentation)** – Documentação oficial por *mothenjoyer69*.
-*   **[Ajustes de BIOS](https://github.com/dannybastos/bc-250-archlinux)** – BIOS Mod para Linux por *dannybastos*.
-*   **[Compatibilidade de Vídeo](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility)** – Banco de dados de cabos e adaptadores testados.
-
----
-
-##  Itens Obrigatórios para a Montagem
-
-| Prévia | Item | Qtd | Link de Compra |
-| :---: | :--- | :---: | :--- |
-| <img src="https://github.com/user-attachments/assets/0bcfc120-fb4b-447e-b11e-1ddc9428bbba" width="60"> | **Parafusos M3x6** | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005005467831636.html) |
-| <img src="https://github.com/user-attachments/assets/a6fd68c5-4355-4bf2-a7e8-1bff6de87501" width="60"> | **Hub USB 4 Portas** | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
-| <img src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" width="60"> | **Extensão RJ-45 (Painel)** | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495) |
-| <img src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" width="60"> | **Splitter PWM para Fans** | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727) |
-| <img src="https://github.com/user-attachments/assets/649c0974-3cb6-449f-b9a6-2dc50f5ad4fb" width="60"> | **Display IPS 1.28 GC9A01** | 1 un. | [Aliexpress](https://s.click.aliexpress.com/e/_c3WFyioN) |
-| <img src="https://github.com/user-attachments/assets/c40e5315-4f34-4147-92ad-4567b3fc52fd" width="60"> | **Conector JST SM 4 Pinos** | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711) |
-| <img src="https://github.com/user-attachments/assets/71c7976a-94d8-4e65-bcad-7493228c3612" width="60"> | **Fans Arctic P12 Pro** | 2 un. | [WAZ](https://www.waz.com.br/ventoinha-cooler-12cm-arctic-cooling-p12-pro-preto-acfan00305a-131823-html/p) |
-
-| <img src="https://github.com/user-attachments/assets/533f5984-039b-4779-937a-a7516c342ff7" />
-" width="60" /> | **Adaptador WIFI** | 1 un. | [Mercado Livre](https://s.click.aliexpress.com/e/_c3pPc7ix) |
-
-| <img alt="br-11134207-81z1k-mggv7m1gtrev70@resize_w450_nl (1)" src="https://github.com/user-attachments/assets/b916ef9e-04dd-43ba-89dc-bade941c0bde" width="60"/> | **Adaptador DP para HDMI** | 1 un. | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-(4K-60Hz)) |
-| <img src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" width="60"> | **Tomada de Força C14** | 1 un. | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM) |
-| <img alt="Captura de tela 2026-05-12 202456" src="https://github.com/user-attachments/assets/32877123-1926-4e75-8c4c-217f38825ab3" width="60"> | **Fonte Metalfish 500W** | 1 un. | [Aliexpress]([https://mercadolivre.com/sec/2PYv3qZ](https://pt.aliexpress.com/item/1005009635167985.html?spm=a2g0o.productlist.main.2.296feccbc8nD1F&algo_pvid=f028510b-1c00-4f64-b97e-4d7d0e9811e4&algo_exp_id=f028510b-1c00-4f64-b97e-4d7d0e9811e4-1&pdp_ext_f=%7B%22order%22%3A%22217%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%21417.33%21384.99%21%21%2178.90%2172.79%21%40210328c017786281878564673e6d28%2112000049711330740%21sea%21BR%211742837610%21X%211%210%21n_tag%3A-29919%3Bd%3Aaeb01396%3Bm03_new_user%3A-29895&curPageLogUid=cHW9sizj8lc2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009635167985%7C_p_origin_prod%3A)) |
+</div>
 
 ---
 
-##  Estrutura
+## 📖 Sobre o projeto
+
+O **BC-250** utiliza um hardware derivado da unidade de processamento (APU) do **PlayStation 5**, adaptado para o ambiente de desktop.
+
+O projeto **Stellar 250** transforma essa placa em uma **Steam Machine personalizada**, utilizando o **Bazzite OS** para oferecer uma experiência semelhante a um console, com foco em jogos, emulação e integração de hardware.
+
+### ⚙️ Especificações base
+
+| Componente              | Especificação          |
+| ----------------------- | ---------------------- |
+| **Placa**               | AMD BC-250             |
+| **Arquitetura**         | Zen 2                  |
+| **CPU**                 | 8 núcleos / 16 threads |
+| **GPU**                 | RDNA 2 integrada       |
+| **Sistema operacional** | Bazzite OS             |
+| **Plataforma**          | Linux                  |
+
+---
+
+## 📚 Documentação técnica e modificações
+
+Para informações detalhadas sobre hardware, pinagem, BIOS e compatibilidade de vídeo, consulte os projetos da comunidade:
+
+* **[Pinagem e Hardware](https://github.com/mothenjoyer69/bc250-documentation)**
+  Documentação técnica da placa BC-250 por *mothenjoyer69*.
+
+* **[Ajustes de BIOS](https://github.com/dannybastos/bc-250-archlinux)**
+  Modificações e configurações de BIOS para utilização da BC-250 com Linux por *dannybastos*.
+
+* **[Compatibilidade de Vídeo](https://github.com/isaacalves/AMD-BC250-hdmi-displayport-compatibility)**
+  Banco de dados com cabos e adaptadores HDMI/DisplayPort testados na BC-250.
+
+---
+
+## 🧰 Itens obrigatórios para a montagem
+
+|                                                 Prévia                                                 | Item                                |  Qtd. | Link de compra                                                                                                                        |
+| :----------------------------------------------------------------------------------------------------: | ----------------------------------- | :---: | ------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/0bcfc120-fb4b-447e-b11e-1ddc9428bbba" width="60"> | **Parafusos M3x6**                  | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005005467831636.html)                                                                    |
+| <img src="https://github.com/user-attachments/assets/a6fd68c5-4355-4bf2-a7e8-1bff6de87501" width="60"> | **Hub USB 4 Portas**                | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
+| <img src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" width="60"> | **Extensão RJ-45 (Painel)**         | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495)          |
+| <img src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" width="60"> | **Splitter PWM para Fans**          | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727)                    |
+| <img src="https://github.com/user-attachments/assets/649c0974-3cb6-449f-b9a6-2dc50f5ad4fb" width="60"> | **Display IPS 1.28" GC9A01**        | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c3WFyioN)                                                                              |
+| <img src="https://github.com/user-attachments/assets/c40e5315-4f34-4147-92ad-4567b3fc52fd" width="60"> | **Conector JST-SM 4 Pinos**         | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711)               |
+| <img src="https://github.com/user-attachments/assets/71c7976a-94d8-4e65-bcad-7493228c3612" width="60"> | **Fans Arctic P12 Pro**             | 2 un. | [WAZ](https://www.waz.com.br/ventoinha-cooler-12cm-arctic-cooling-p12-pro-preto-acfan00305a-131823-html/p)                            |
+| <img src="https://github.com/user-attachments/assets/533f5984-039b-4779-937a-a7516c342ff7" width="60"> | **Adaptador Wi-Fi**                 | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c3pPc7ix)                                                                              |
+| <img src="https://github.com/user-attachments/assets/b916ef9e-04dd-43ba-89dc-bade941c0bde" width="60"> | **Adaptador DisplayPort para HDMI** | 1 un. | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-%284K-60Hz%29)                                                  |
+| <img src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" width="60"> | **Tomada de Força C14**             | 1 un. | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM)                   |
+| <img src="https://github.com/user-attachments/assets/32877123-1926-4e75-8c4c-217f38825ab3" width="60"> | **Fonte Metalfish 500W**            | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005009635167985.html)                                                                    |
+
+---
+
+## 🏗️ Estrutura
+
+A estrutura do **Stellar 250** foi projetada para acomodar a BC-250, sistema de refrigeração, fonte de alimentação, conectividade e os componentes auxiliares.
+
+### 🔩 Sistema de fixação
+
+A montagem utiliza **ímãs de neodímio redondos de 6 mm** para facilitar a fixação e desmontagem da estrutura.
+
+<div align="center">
 
 <img width="1491" height="866" alt="6MM ROUND NEODYMIUM MAGNET" src="https://github.com/user-attachments/assets/c41fb9f5-f7d5-447d-8855-ed5c91c141b6" />
 
-<img width="1487" height="834" alt="6MM ROUND NEODYMIUM MAGNET (1)" src="https://github.com/user-attachments/assets/51c9c803-ef9b-40fa-bf7d-9ff9edc17179" />
+<br><br>
 
-<img width="1490" height="856" alt="6MM ROUND NEODYMIUM MAGNET (2)" src="https://github.com/user-attachments/assets/6107e3c9-58ee-4095-a563-c50d1da86e1c" />
+<img width="1487" height="834" alt="6MM ROUND NEODYMIUM MAGNET 1" src="https://github.com/user-attachments/assets/51c9c803-ef9b-40fa-bf7d-9ff9edc17179" />
+
+<br><br>
+
+<img width="1490" height="856" alt="6MM ROUND NEODYMIUM MAGNET 2" src="https://github.com/user-attachments/assets/6107e3c9-58ee-4095-a563-c50d1da86e1c" />
+
+</div>
+
+---
+
+## 🎮 Objetivo
+
+O objetivo do **Stellar 250** é transformar a AMD BC-250 em uma plataforma compacta e personalizada para:
+
+* 🎮 Jogos de PC
+* 🕹️ Emulação
+* 🖥️ Interface de console
+* ❄️ Refrigeração personalizada
+* 💾 Armazenamento NVMe
+* 📺 Saída de vídeo HDMI/DisplayPort
+* 🌐 Conectividade Wi-Fi e Ethernet
+* 🐧 Bazzite OS
+
+---
+
+## 🚀 Projeto
+
+**Stellar 250**
+Uma Steam Machine baseada na **AMD BC-250**.
+
+<div align="center">
+
+**Built with AMD BC-250 · Bazzite OS · Linux**
+
+</div>
