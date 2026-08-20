@@ -89,7 +89,7 @@ Para informações detalhadas sobre hardware, pinagem, BIOS e compatibilidade de
 | <img src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" width="60"> | **Tomada de Força C14**             | 1 un. | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM)                   |
 | <img src="https://github.com/user-attachments/assets/32877123-1926-4e75-8c4c-217f38825ab3" width="60"> | **Fonte Metalfish 500W**            | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005009635167985.html)                                                                    |
 |                                                                                                        | **Botão Power**                     | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c4165uoL)                                                                              |
-|                                                                                                        | **Cabo Tripolar**                   | 1 un. | [Mercado Livre](https://meli.la/1J8SWRv)                                                                                              |
+|<img src="D_Q_NP_638641-MLA83177593698_042025-F" src="https://github.com/user-attachments/assets/949d0ae4-b570-464f-82b8-70e8003f78b3" width="60"> | **Cabo Tripolar**                   | 1 un. | [Mercado Livre](https://meli.la/1J8SWRv)                                                                                              |
 
 ---
 
