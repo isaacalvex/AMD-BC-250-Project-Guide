@@ -1,3 +1,10 @@
+Claro — aqui está o **README completo atualizado**, sem emojis, com:
+
+* JST-SM 4 Pinos removido.
+* Display IPS 1.28" GC9A01 com o novo link.
+* Botão adicionado à lista.
+* Demais itens mantidos.
+
 # 𝖲𝗍𝖾𝗅𝗅𝖺𝗋 𝟤𝟧𝟢
 
 <div align="center">
@@ -40,13 +47,13 @@
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **BC-250** utiliza um hardware derivado da unidade de processamento (APU) do **PlayStation 5**, adaptado para o ambiente de desktop.
 
 O projeto **Stellar 250** transforma essa placa em uma **Steam Machine personalizada**, utilizando o **Bazzite OS** para oferecer uma experiência semelhante a um console, com foco em jogos, emulação e integração de hardware.
 
-### ⚙️ Especificações base
+### Especificações base
 
 | Componente              | Especificação          |
 | ----------------------- | ---------------------- |
@@ -59,7 +66,7 @@ O projeto **Stellar 250** transforma essa placa em uma **Steam Machine personali
 
 ---
 
-## 📚 Documentação técnica e modificações
+## Documentação técnica e modificações
 
 Para informações detalhadas sobre hardware, pinagem, BIOS e compatibilidade de vídeo, consulte os projetos da comunidade:
 
@@ -74,7 +81,7 @@ Para informações detalhadas sobre hardware, pinagem, BIOS e compatibilidade de
 
 ---
 
-## 🧰 Itens obrigatórios para a montagem
+## Itens obrigatórios para a montagem
 
 |                                                 Prévia                                                 | Item                                |  Qtd. | Link de compra                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------: | ----------------------------------- | :---: | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,21 +89,21 @@ Para informações detalhadas sobre hardware, pinagem, BIOS e compatibilidade de
 | <img src="https://github.com/user-attachments/assets/a6fd68c5-4355-4bf2-a7e8-1bff6de87501" width="60"> | **Hub USB 4 Portas**                | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/hub-usb-4-portas-multiplicador-entrada-pc-cabo-extensor-50cm-usb-20-30/p/MLB25726861) |
 | <img src="https://github.com/user-attachments/assets/da5829c4-ba4a-48ee-b524-d3092116ec5f" width="60"> | **Extensão RJ-45 (Painel)**         | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensao-rj-45-macho-e-femea-50-cm--pacht-painel-rack/up/MLBU783975495)          |
 | <img src="https://github.com/user-attachments/assets/556de085-e7b4-4533-8dd0-0ac9ea5fb09b" width="60"> | **Splitter PWM para Fans**          | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/cabo-extensor-splitter-multi-fan-pwm-para-3-fans/up/MLBU777411727)                    |
-| <img src="https://github.com/user-attachments/assets/649c0974-3cb6-449f-b9a6-2dc50f5ad4fb" width="60"> | **Display IPS 1.28" GC9A01**        | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c3WFyioN)                                                                              |
-| <img src="https://github.com/user-attachments/assets/c40e5315-4f34-4147-92ad-4567b3fc52fd" width="60"> | **Conector JST-SM 4 Pinos**         | 1 un. | [Mercado Livre](https://www.mercadolivre.com.br/5-pares-conector-engate-rapido-jst-sm-4-pinos-4-fios/up/MLBU1985452711)               |
+| <img src="https://github.com/user-attachments/assets/649c0974-3cb6-449f-b9a6-2dc50f5ad4fb" width="60"> | **Display IPS 1.28" GC9A01**        | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c374WXr5)                                                                              |
 | <img src="https://github.com/user-attachments/assets/71c7976a-94d8-4e65-bcad-7493228c3612" width="60"> | **Fans Arctic P12 Pro**             | 2 un. | [WAZ](https://www.waz.com.br/ventoinha-cooler-12cm-arctic-cooling-p12-pro-preto-acfan00305a-131823-html/p)                            |
 | <img src="https://github.com/user-attachments/assets/533f5984-039b-4779-937a-a7516c342ff7" width="60"> | **Adaptador Wi-Fi**                 | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c3pPc7ix)                                                                              |
 | <img src="https://github.com/user-attachments/assets/b916ef9e-04dd-43ba-89dc-bade941c0bde" width="60"> | **Adaptador DisplayPort para HDMI** | 1 un. | [Shopee](https://shopee.com.br/Adaptador-DisplayPort-para-HDMI-Benfei-%284K-60Hz%29)                                                  |
 | <img src="https://github.com/user-attachments/assets/f9619f11-af14-481a-95fa-221b7c407e0f" width="60"> | **Tomada de Força C14**             | 1 un. | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1167597495-10-tomada-de-forca-tripolar-as-02-c14-preta-_JM)                   |
 | <img src="https://github.com/user-attachments/assets/32877123-1926-4e75-8c4c-217f38825ab3" width="60"> | **Fonte Metalfish 500W**            | 1 un. | [AliExpress](https://pt.aliexpress.com/item/1005009635167985.html)                                                                    |
+|                                                                                                        | **Botão Power**                     | 1 un. | [AliExpress](https://s.click.aliexpress.com/e/_c4165uoL)                                                                              |
 
 ---
 
-## 🏗️ Estrutura
+## Estrutura
 
 A estrutura do **Stellar 250** foi projetada para acomodar a BC-250, sistema de refrigeração, fonte de alimentação, conectividade e os componentes auxiliares.
 
-### 🔩 Sistema de fixação
+### Sistema de fixação
 
 A montagem utiliza **ímãs de neodímio redondos de 6 mm** para facilitar a fixação e desmontagem da estrutura.
 
@@ -116,22 +123,22 @@ A montagem utiliza **ímãs de neodímio redondos de 6 mm** para facilitar a fix
 
 ---
 
-## 🎮 Objetivo
+## Objetivo
 
 O objetivo do **Stellar 250** é transformar a AMD BC-250 em uma plataforma compacta e personalizada para:
 
-* 🎮 Jogos de PC
-* 🕹️ Emulação
-* 🖥️ Interface de console
-* ❄️ Refrigeração personalizada
-* 💾 Armazenamento NVMe
-* 📺 Saída de vídeo HDMI/DisplayPort
-* 🌐 Conectividade Wi-Fi e Ethernet
-* 🐧 Bazzite OS
+* Jogos de PC
+* Emulação
+* Interface de console
+* Refrigeração personalizada
+* Armazenamento NVMe
+* Saída de vídeo HDMI/DisplayPort
+* Conectividade Wi-Fi e Ethernet
+* Bazzite OS
 
 ---
 
-## 🚀 Projeto
+## Projeto
 
 **Stellar 250**
 Uma Steam Machine baseada na **AMD BC-250**.
